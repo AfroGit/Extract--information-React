@@ -4,7 +4,7 @@ const person = {
   name: 'Gregorio Y. Zara',
   imageUrl: "https://i.imgur.com/7vQD0fPs.jpg",
   theme: {
-    backgroundColor: 'black',
+    backgroundColor: 'light green',
     color: 'pink'
   }
 };
